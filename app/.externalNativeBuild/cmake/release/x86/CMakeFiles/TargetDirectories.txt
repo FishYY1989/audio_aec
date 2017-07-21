@@ -1,0 +1,6 @@
+C:/Users/wx/src/aec_source-master/test/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/speex.dir
+C:/Users/wx/src/aec_source-master/test/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/edit_cache.dir
+C:/Users/wx/src/aec_source-master/test/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/rebuild_cache.dir
+C:/Users/wx/src/aec_source-master/test/app/.externalNativeBuild/cmake/release/x86/src/main/cpp/webrtc/CMakeFiles/webrtc.dir
+C:/Users/wx/src/aec_source-master/test/app/.externalNativeBuild/cmake/release/x86/src/main/cpp/webrtc/CMakeFiles/edit_cache.dir
+C:/Users/wx/src/aec_source-master/test/app/.externalNativeBuild/cmake/release/x86/src/main/cpp/webrtc/CMakeFiles/rebuild_cache.dir

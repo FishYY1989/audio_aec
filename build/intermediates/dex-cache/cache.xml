@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\wx\.android\build-cache\82916a914421c8b49c008edf2da832017fcf1ac9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\wx\src\aec_source-master\test\app\build\intermediates\pre-dexed\debug\classes_e5703ee0b3ee9dc1a00f8a950130e2a53106e198.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wx\.android\build-cache\41f47fe9876452999081d68bba56ca3e218c19fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\wx\src\aec_source-master\test\app\build\intermediates\pre-dexed\debug\classes_f91ca57fdd9f0e5b470a89a19e1692dc6249fd2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wx\.android\build-cache\1fb406300d1b4536ab0b8878c2731000cc1d9a03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\wx\src\aec_source-master\test\app\build\intermediates\pre-dexed\debug\classes_6a7ebd7ac0fd0fd661a7490782c3a0811a72aec9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wx\src\aec_source-master\test\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8e9ce23d65d4caa18cfbfa588690425f963c0f8b">
+        <dex dex="C:\Users\wx\src\aec_source-master\test\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0d4f18942f880198d1747d3b133926ee4363fb69\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wx\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\wx\src\aec_source-master\test\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_abd216b6e3d07dcc745fe9c8fd6d041a97b464e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wx\.android\build-cache\46e622a3824287fdd082424b1576554f5122b18c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\wx\src\aec_source-master\test\app\build\intermediates\pre-dexed\debug\classes_8dbf7764c5e29a6420880e241b7da02b00026929.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wx\src\aec_source-master\test\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\wx\src\aec_source-master\test\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_34b74b5914d3e15f078f58c74b431254d912ecc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wx\.android\build-cache\4e18222d3ad044dfb02656ab60602b5ba47d4679\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\wx\src\aec_source-master\test\app\build\intermediates\pre-dexed\debug\classes_373011ddeb1d2f2d9e4f82a01a84a61aea835510.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wx\.android\build-cache\81daa434d1207764037edb05c34683f6c996ef82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\wx\src\aec_source-master\test\app\build\intermediates\pre-dexed\debug\classes_f65444c8d15de7a2625cfb61491a988bf582e4b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wx\.android\build-cache\30cd116a7cb70409e46fcae5da8c16f49444afa9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\wx\src\aec_source-master\test\app\build\intermediates\pre-dexed\debug\classes_6de7cb288177b6b269329af4116096a7ac703e29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wx\.android\build-cache\37e3b19ad27e741ebbf9117ca7388fce51716de7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\wx\src\aec_source-master\test\app\build\intermediates\pre-dexed\debug\classes_ccc778477e33e5f2ee15c39e6408b6240d0dff40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wx\.android\build-cache\63419828bc3a6d5a65cc8f1f0bc12b45d0e0aa60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\wx\src\aec_source-master\test\app\build\intermediates\pre-dexed\debug\classes_f5ea3d4f98b285bfa1f599cedcdb10f6eefcf25e.jar" />
+    </item>
+
+</items>

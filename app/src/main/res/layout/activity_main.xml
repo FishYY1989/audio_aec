@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="com.example.wx.test.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/edit_spe"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="speaker.pcm"
+                android:maxLines="2" />
+
+            <Button
+                android:id="@+id/record_spe"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="record_spe"
+                tools:layout_editor_absoluteX="148dp"
+                tools:layout_editor_absoluteY="148dp" />
+
+            <Button
+                android:id="@+id/spe_stop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="stop"
+                tools:layout_editor_absoluteX="148dp"
+                tools:layout_editor_absoluteY="148dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/edit_mic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="mic.pcm"
+                android:maxLines="2" />
+
+            <EditText
+                android:id="@+id/edit_speex"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="out.pcm"
+                android:maxLines="2" />
+
+            <Button
+                android:id="@+id/btn_speex"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="speex"
+                tools:layout_editor_absoluteX="148dp"
+                tools:layout_editor_absoluteY="148dp" />
+
+            <Button
+                android:id="@+id/btn_webrtc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="webrtc"
+                tools:layout_editor_absoluteX="148dp"
+                tools:layout_editor_absoluteY="148dp" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/edit_play"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="speaker.pcm"
+                android:maxLines="2" />
+
+            <Button
+                android:id="@+id/btn_play"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="play"
+                tools:layout_editor_absoluteX="148dp"
+                tools:layout_editor_absoluteY="82dp" />
+
+            <Button
+                android:id="@+id/play_pause"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="pause"
+                tools:layout_editor_absoluteX="148dp"
+                tools:layout_editor_absoluteY="148dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <Button
+                android:id="@+id/record_aec"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="record_aec"
+                tools:layout_editor_absoluteX="148dp"
+                tools:layout_editor_absoluteY="148dp" />
+
+
+        </LinearLayout>
+
+        <!--<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"-->
+            <!--android:id="@+id/radioGroup"-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:orientation="vertical">-->
+            <!--<RadioButton android:id="@+id/radio_speex"-->
+                <!--android:layout_width="112dp"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="radio_speex" />-->
+            <!--<RadioButton android:id="@+id/radio_webrtc"-->
+                <!--android:layout_width="113dp"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="radio_webrtc" />-->
+        <!--</RadioGroup>-->
+
+
+    </LinearLayout>
+</LinearLayout>
